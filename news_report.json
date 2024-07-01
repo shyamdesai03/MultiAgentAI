@@ -1,387 +1,66 @@
+```json
 [
     {
-        "Link": "https://www.reuters.com/markets/commodities/oil-edges-lower-after-industry-group-reports-jump-us-stockpiles-2024-06-26/",
-        "Title": "Oil falls after jump in U.S. inventories raises demand concerns",
-        "Summary": "Summary: Oil prices fell on Friday after data showed a jump in U.S. crude and fuel inventories, raising concerns about demand."
+        "Link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm9mZnNob3JlLWVuZXJneS5iaXovcmlvLWdyYW5kZS1sbmctZGVhbHMtZW5hYmxlLWFkbm9jLXRvLXNwcmVhZC1pdHMtbG93LWNhcmJvbi1lbmVyZ3ktd2luZ3MtaW4tdXMv0gEA?oc=5",
+        "Title": "Rio Grande LNG deals enable ADNOC to spread its low-carbon energy wings in US",
+        "Summary": "Offshore Energy Partners to start construction of low-carbon ammonia facility in Abu Dhabi.",
+        "Date": "Mon, 20 May 2024 07:00:00 GMT"
     },
     {
-        "Link": "https://www.rigzone.com/news/",
-        "Title": "Oil & Gas News Home | RIGZONE",
-        "Summary": "Summary: Stay up to date with the latest oil and gas news from RIGZONE, covering industry trends, market updates, and more."
+        "Link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3Lm9mZnNob3JlLWVuZXJneS5iaXovcGFydG5lcnMtdG8tc3RhcnQtY29uc3RydWN0aW9uLW9mLWxvdy1jYXJib24tYW1tb25pYS1mYWNpbGl0eS1pbi1hYnUtZGhhYmkv0gEA?oc=5",
+        "Title": "Partners to start construction of low-carbon ammonia facility in Abu Dhabi",
+        "Summary": "Offshore Energy ADNOC signs 15-year LNG supply deal with unit of China's ENN.",
+        "Date": "Tue, 25 Jun 2024 10:37:53 GMT"
     },
     {
-        "Link": "https://www.bloomberg.com/news/articles/2024-06-20/latest-oil-market-news-and-analysis-for-june-21",
-        "Title": "Latest Oil Market News and Analysis for June 21 - Bloomberg",
-        "Summary": "Summary: Bloomberg provides the latest news and analysis on the oil market for June 21, covering market trends and developments."
+        "Link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vcHJpY2VvZm9pbC5vcmcvMjAyNC8wMS8xNy9qdXN0LXdlZWtzLWFmdGVyLWNvcDI4LWFkbm9jcy1vaWwtYW5kLWdhcy1leHBhbnNpb24tcGxhbnMtZ2Fpbi1tb21lbnR1bS_SAQA?oc=5",
+        "Title": "Just weeks after COP28, ADNOC's oil and gas expansion plans gain momentum",
+        "Summary": "ADNOC's oil and gas expansion plans gain momentum post COP28.",
+        "Date": "Wed, 17 Jan 2024 08:00:00 GMT"
     },
     {
-        "Link": "https://www.renewable.news/",
-        "Title": "Find out the latest renewable energy news - Renewable.news",
-        "Summary": ""
+        "Link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd29ybGRvaWwuY29tL25ld3MvMjAyNC80LzEvYWRub2MtZ2FzLXRvLWludmVzdC1vdmVyLTEzLWJpbGxpb24taW4tZG9tZXN0aWMtaW50ZXJuYXRpb25hbC1vaWwtYW5kLWdhcy1pbmR1c3RyeS1ieS0yMDI5L9IBAA?oc=5",
+        "Title": "ADNOC to invest over $13 billion in domestic oil and gas industry by 2029",
+        "Summary": "ADNOC to invest billions in the domestic oil and gas sector by 2029.",
+        "Date": "Mon, 01 Apr 2024 07:00:00 GMT"
     },
     {
-        "Link": "https://ground.news/interest/renewable-energy",
-        "Title": "Renewable Energy Breaking News Headlines Today | Ground News",
-        "Summary": ""
+        "Link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZGVhbHMvc2F1ZGktYXJhbWNvLXVhZXMtYWRub2MtdGFsa3MtaW52ZXN0LXVzLWxuZy1wcm9qZWN0cy1zb3VyY2VzLXNheS0yMDI0LTAzLTA2L9IBAA?oc=5",
+        "Title": "Saudis and UAE's ADNOC talk investments in US LNG projects",
+        "Summary": "ADNOC and Saudi entities discuss investments in US LNG projects.",
+        "Date": "Wed, 06 Mar 2024 08:00:00 GMT"
     },
     {
-        "Link": "https://www.energy-storage.news/",
-        "Title": "Global news, analysis and opinion on energy storage innovation and ...",
-        "Summary": ""
+        "Link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3N1c3RhaW5hYmlsaXR5L2NsaW1hdGUtZW5lcmd5L3VhZXMtYWRub2MtYm9vc3RzLWxvd2VyLWNhcmJvbi1idWRnZXQtMjMtYmlsbGlvbi0yMDI0LTAxLTIyL9IBAA?oc=5",
+        "Title": "UAE's ADNOC boosts lower-carbon budget to $23 billion",
+        "Summary": "ADNOC increases budget for lower-carbon initiatives to $23 billion.",
+        "Date": "Mon, 22 Jan 2024 08:00:00 GMT"
     },
     {
-        "Link": "https://ground.news/article/more-than-30-of-the-worlds-electricity-is-now-coming-from-renewable-energy_fa324b",
-        "Title": "Ground News - More than 30% of the world's electricity is now coming ...",
-        "Summary": ""
+        "Link": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmVuZXJneWludGVsLmNvbS8wMDAwMDE5MC00Zjc1LWRlOWQtYTNkNC00ZmY1NWQ4YjAwMDDSAQA?oc=5",
+        "Title": "Covestro: What's in It for Adnoc?",
+        "Summary": "Analysis of what the Covestro deal means for Adnoc.",
+        "Date": "Tue, 25 Jun 2024 15:41:31 GMT"
     },
     {
-        "Link": "https://www.energy-storage.news/big-expansion-in-battery-manufacturing-essential-to-global-net-zero-goals-bloombergnef-says/",
-        "Title": "'Big expansion' in battery manufacturing ... - energy-storage.news",
-        "Summary": ""
+        "Link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm1pdHN1aS5jb20vanAvZW4vcmVsZWFzZS8yMDI0LzEyNDkzNjZfMTQzNzIuaHRtbNIBAA?oc=5",
+        "Title": "Construction begins on clean ammonia production facility in UAE, project loan agreement signed",
+        "Summary": "Mitsui reports on the start of construction for a clean ammonia facility in UAE.",
+        "Date": "Mon, 24 Jun 2024 23:27:20 GMT"
     },
     {
-        "Link": "https://ground.news/article/us-energy-panel-approves-rule-to-expand-transmission-of-renewable-power_80741a",
-        "Title": "Ground News - US energy panel approves rule to expand transmission of ...",
-        "Summary": ""
+        "Link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vaW1wZWxsZXIubmV0L21hZ2F6aW4vbnBjYy1hd2FyZHMtYW1hcmludGgtYW5vdGhlci1tYWpvci1vcmRlci1mb3ItYXBpLTYxMC1vaDItcHVtcHMv0gEA?oc=5",
+        "Title": "NPCC Awards Amarinth Another Major Order for API 610 OH2 Pumps",
+        "Summary": "Impeller.net reports on NPCC awarding a major order to Amarinth for API 610 OH2 pumps.",
+        "Date": "Mon, 22 Jan 2024 08:00:00 GMT"
     },
     {
-        "Link": "https://www.energy-storage.news/eos-and-invinity-supplying-battery-systems-to-cec-funded-biggest-renewables-microgrid-in-us/",
-        "Title": "Eos and Invinity supplying 'biggest renewables microgrid in US'",
-        "Summary": ""
-    },
-    {
-        "Link": "https://www.energy-storage.news/ravenswood-new-yorks-biggest-fossil-fuel-plant-to-become-renewables-energy-storage-hub/",
-        "Title": "NY's biggest fossil fuel plant Ravenswood to become renewables hub",
-        "Summary": ""
-    },
-    {
-        "Link": "https://www.positive.news/environment/energy/the-renewables-race-is-the-uk-winning/",
-        "Title": "The renewables race: are we winning? - Positive News",
-        "Summary": ""
-    },
-    {
-        "Link": "https://www.hyundai.news/eu/articles/stories/how-bidirectional-charging-can-power-your-world.html",
-        "Title": "How bidirectional charging can power your world - hyundai.news",
-        "Summary": ""
-    },
-    {
-        "Link": "https://cleanenergy.news/",
-        "Title": "Clean Energy - Dedicated to providing the latest news and insights in ...",
-        "Summary": ""
-    },
-    {
-        "Link": "https://ground.news/interest/green-energy",
-        "Title": "Green Energy Breaking News Headlines Today | Ground News",
-        "Summary": ""
-    },
-    {
-        "Link": "https://ground.news/article/epa-awards-20-billion-in-green-bank-grants-for-clean-energy-projects-nationwide_d519ce",
-        "Title": "Ground News - EPA awards $20 billion in green bank grants for clean ...",
-        "Summary": ""
-    },
-    {
-        "Link": "https://www.context.news/green-cities/power-plants-in-homes-us-cities-seek-to-speed-green-transition",
-        "Title": "Power plants in homes - US cities seek to speed green transition",
-        "Summary": ""
-    },
-    {
-        "Link": "https://www.context.news/just-transition/power-to-the-people-propels-us-green-energy-transition",
-        "Title": "Power to the people propels US green energy transition | Context",
-        "Summary": ""
-    },
-    {
-        "Link": "https://www.context.news/climate-justice/philanthropists-back-justice-for-workers-in-green-energy-deals",
-        "Title": "Philanthropists back justice for workers in green energy deals",
-        "Summary": ""
-    },
-    {
-        "Link": "https://sustainableliving.news/sustainable-energy-news/office-of-the-governor-icymi-biden-harris-administration-launches-new-solar-initiatives-to-lower-electricity-bills-and-create-clean-energy-jobs-nj-gov-ppJZ",
-        "Title": "Recent Sustainable Energy News Articles",
-        "Summary": ""
-    },
-    {
-        "Link": "https://etn.news/",
-        "Title": "ETN News | Energy Storage News | Renewable Energy News",
-        "Summary": ""
-    },
-    {
-        "Link": "https://www.hyundai.news/eu/articles/press-releases/gone-green-hyundais-first-factory-powered-by-100-percent-renewable-energy.html",
-        "Title": "Gone green: Hyundai's first factory powered by 100% renewable energy",
-        "Summary": ""
-    },
-    {
-        "Link": "https://heatmap.news/economy/make-or-break-clean-energy",
-        "Title": "The Make-or-Break Projects of the Energy Transition - Heatmap News",
-        "Summary": ""
-    },
-    {
-        "Link": "https://www.renewable.news/category/energy-transition/",
-        "Title": "Energy Transition Archives - Renewable.news",
-        "Summary": ""
-    },
-    {
-        "Link": "https://www.renewable.news/energy-transition/irena-releases-world-energy-transitions-outlook-to-tackle-energy-climate-crisis/",
-        "Title": "IRENA Releases World Energy Transitions Outlook to Tackle Energy ...",
-        "Summary": ""
-    },
-    {
-        "Link": "https://www.context.news/just-transition/what-does-the-green-transition-mean-for-energy-jobs",
-        "Title": "What does the green transition mean for energy jobs? | Context",
-        "Summary": ""
-    },
-    {
-        "Link": "https://www.energy-storage.news/energy-storage-central-to-newsoms-updated-clean-energy-transition-plan-for-california/",
-        "Title": "California: Energy storage central to Clean Energy Transition Plan",
-        "Summary": ""
-    },
-    {
-        "Link": "https://www.energy-storage.news/california-speeds-up-energy-transition-to-face-immediate-energy-crisis-and-long-term-climate-goals/",
-        "Title": "California speeds up energy transition to face ... - Energy-Storage.News",
-        "Summary": ""
-    },
-    {
-        "Link": "https://bio.news/climate-change/lanzatech-virent-energy-transition-climate-change-solutions-biofuels-biobased-solutions/",
-        "Title": "How LanzaTech and Virent are fueling the energy transition - Bio.News",
-        "Summary": ""
-    },
-    {
-        "Link": "https://www.renewable.news/energy-transition/energy-transition-is-a-chance-for-many-new-players-in-the-market/",
-        "Title": "Energy Transition is A Chance for Many New Players in The Market",
-        "Summary": ""
-    },
-    {
-        "Link": "https://ground.news/interest/oil-price",
-        "Title": "Oil Price Breaking News Headlines Today | Ground News",
-        "Summary": ""
-    },
-    {
-        "Link": "https://ground.news/article/oil-prices-extend-losses-on-worries-of-supply-rising-later-in-2024_cf9187",
-        "Title": "Ground News - Oil prices extend losses on worries of supply rising ...",
-        "Summary": ""
-    },
-    {
-        "Link": "https://mexicobusiness.news/oilandgas/news/mexican-oil-prices-surge-amid-global-tensions",
-        "Title": "Mexican Oil Prices Surge Amid Global Tensions - mexicobusiness.news",
-        "Summary": ""
-    },
-    {
-        "Link": "https://mettisglobal.news/oil-prices-rise-on-summer-demand-hopes-despite-strong-dollar/",
-        "Title": "Oil prices rise on summer demand hopes despite strong Dollar",
-        "Summary": ""
-    },
-    {
-        "Link": "https://ground.news/interest/oil-and-gas-sector",
-        "Title": "Oil and Gas Sector Breaking News Headlines Today | Ground News",
-        "Summary": ""
-    },
-    {
-        "Link": "https://ground.news/interest/opec",
-        "Title": "OPEC+ Breaking News Headlines Today | Ground News",
-        "Summary": ""
-    },
-    {
-        "Link": "https://ground.news/article/oil-extends-two-day-climb-on-renewed-optimism-for-us-rate-cuts",
-        "Title": "Oil price news: oil's rebound falters amid clouded outlook for ...",
-        "Summary": ""
-    },
-    {
-        "Link": "https://mettisglobal.news/oil-prices-slide-1-as-us-reports-soaring-crude-fuel-stockpiles/",
-        "Title": "Oil prices slide 1% as US reports soaring crude, fuel stockpiles",
-        "Summary": ""
-    },
-    {
-        "Link": "https://mexicobusiness.news/energy/news/choppy-seas-ahead-crude-oil-prices",
-        "Title": "Choppy Seas Ahead in Crude Oil Prices - mexicobusiness.news",
-        "Summary": ""
-    },
-    {
-        "Link": "https://airfreight.news/articles/full/eia-forecasts-crude-oil-prices-will-fall-in-2022-and-2023",
-        "Title": "EIA forecasts crude oil prices will fall in 2022 and 2023",
-        "Summary": ""
-    },
-    {
-        "Link": "https://www.energyflux.news/p/rise-of-lng-middlemen-traders",
-        "Title": "Traders, aggregators and oil companies: Enter the LNG middlemen",
-        "Summary": ""
-    },
-    {
-        "Link": "https://www.energyflux.news/p/eu-natural-gas-lng-trade-geopolitics-prices-2024",
-        "Title": "What might global LNG trade look like in 2024? - energyflux.news",
-        "Summary": ""
-    },
-    {
-        "Link": "https://www.energyflux.news/p/pause-for-thought-biden-gas-lng",
-        "Title": "Pause for the cause - by Seb Kennedy - Energy Flux",
-        "Summary": ""
-    },
-    {
-        "Link": "https://fa.news/articles/china_lng_traders_build_trading_teams_in_global_market-121908/",
-        "Title": "China LNG traders build trading teams in global market",
-        "Summary": ""
-    },
-    {
-        "Link": "https://airfreight.news/articles/full/global-lng-market-faces-supply-deficit-higher-prices-from-decade-long-impact-of-mozambique-delays",
-        "Title": "Global LNG market faces supply deficit, higher prices from decade-long ...",
-        "Summary": ""
-    },
-    {
-        "Link": "https://mexicobusiness.news/energy/news/shell-mexico-pacific-sign-lng-long-term-supply-agreement",
-        "Title": "Shell, Mexico Pacific Sign LNG Long-Term Supply Agreement",
-        "Summary": ""
-    },
-    {
-        "Link": "https://www.energyflux.news/p/the-asian-lng-glut-is-here-oil-gas-price-trade",
-        "Title": "The Asian LNG glut is here - by Seb Kennedy - Energy Flux",
-        "Summary": ""
-    },
-    {
-        "Link": "https://ground.news/interest/rigzone",
-        "Title": "Rigzone Breaking News Headlines Today | Ground News",
-        "Summary": ""
-    },
-    {
-        "Link": "https://mexicobusiness.news/oilandgas/news/sempra-energy-sets-2025-launch-mexicos-eca-lng-project",
-        "Title": "Sempra Energy Sets 2025 Launch for Mexico's ECA LNG Project",
-        "Summary": ""
-    },
-    {
-        "Link": "https://mexicobusiness.news/energy/news/mexicos-first-floating-lng-plant-nears-production",
-        "Title": "Mexico's First Floating LNG Plant Nears Production",
-        "Summary": ""
-    },
-    {
-        "Link": "https://ground.news/interest/carbon-emissions",
-        "Title": "Carbon Emissions Breaking News Headlines Today | Ground News",
-        "Summary": ""
-    },
-    {
-        "Link": "https://ground.news/article/court-strikes-down-biden-rule-requiring-states-and-cities-to-set-climate-targets-for-transportation_587c97",
-        "Title": "US judge strikes down Biden highway climate rule for states - Ground News",
-        "Summary": ""
-    },
-    {
-        "Link": "https://ground.news/article/majority-of-co2-emissions-linked-to-57-producers-and-countries-report-says",
-        "Title": "Ground News - 57 companies linked to 80% of greenhouse gas emissions ...",
-        "Summary": ""
-    },
-    {
-        "Link": "https://forkast.news/ethereum-save-with-proof-of-stake/",
-        "Title": "Can Ethereum's proof-of-stake transition save the planet? - Forkast",
-        "Summary": ""
-    },
-    {
-        "Link": "https://www.hyundai.news/eu/articles/press-releases/hyundai-and-shell-expand-collaboration-to-drive-transition-to-clean-mobility-and-carbon-reduction.html",
-        "Title": "Hyundai Motor and Shell expand collaboration to drive transition to ...",
-        "Summary": ""
-    },
-    {
-        "Link": "https://oilcity.news/wyoming/energy/2022/09/08/new-large-scale-carbon-capture-project-slated-for-wyoming/",
-        "Title": "New large-scale carbon capture project slated for Wyoming",
-        "Summary": ""
-    },
-    {
-        "Link": "https://www.hyundai.news/eu/articles/press-releases/hyundai-broadens-its-energy-solutions-to-include-vehicle-to-everything-technology.html",
-        "Title": "Hyundai Motor broadens its energy solutions to include Vehicle-to ...",
-        "Summary": ""
-    },
-    {
-        "Link": "https://www.hyundai.news/eu/articles/press-releases/hyundai-motor-presents-carbon-neutral-commitment-at-iaa-mobility-2021.html",
-        "Title": "Hyundai Motor Presents Carbon Neutral Commitment at IAA Mobility 2021",
-        "Summary": ""
-    },
-    {
-        "Link": "https://ground.news/article/bhutan-emerges-as-net-zero-carbon-emission-country",
-        "Title": "Ground News - Bhutan emerges as Net zero carbon emission country",
-        "Summary": ""
-    },
-    {
-        "Link": "https://www.hyundai.news/eu/articles/press-releases/carbon-neutral-commitment-expecting-generation-one-campaign.html",
-        "Title": "Hyundai Motor Signals Carbon Neutral Commitment through New 'Expecting ...",
-        "Summary": ""
-    },
-    {
-        "Link": "https://www.energy-storage.news/subjects/policy/",
-        "Title": "Policy Archives - Energy-Storage.News",
-        "Summary": ""
-    },
-    {
-        "Link": "https://www.energy-storage.news/biggest-energy-policy-change-32gw-cfds-could-put-australia-on-track-for-2030-climate-targets/",
-        "Title": "'Biggest energy policy change': 32GW CfDs ... - energy-storage.news",
-        "Summary": ""
-    },
-    {
-        "Link": "https://mexicobusiness.news/energy/news/energy-policy-sheinbaum-vs-xochitl",
-        "Title": "Energy Policy: Sheinbaum vs. Xóchitl - mexicobusiness.news",
-        "Summary": ""
-    },
-    {
-        "Link": "https://mexicobusiness.news/energy/news/renewable-energy-policy-innovation-george-w-effect",
-        "Title": "Renewable Energy Policy Innovation: The George W Effect",
-        "Summary": ""
-    },
-    {
-        "Link": "https://fullmeasure.news/news/politics/energy-policy",
-        "Title": "Energy Policy | Full Measure",
-        "Summary": ""
-    },
-    {
-        "Link": "https://oilcity.news/community/energy-community/2023/08/31/wyoming-could-gain-the-most-from-federal-climate-funding-but-obstacles-are-many/",
-        "Title": "Wyoming could gain the most from federal climate funding, but obstacles ...",
-        "Summary": ""
-    },
-    {
-        "Link": "https://www.renewable.news/policy/south-korea-revises-its-energy-policy/",
-        "Title": "South Korea Revises Its Energy Policy - Renewable.news",
-        "Summary": ""
-    },
-    {
-        "Link": "https://www.energy-storage.news/us-eu-policies-prompt-bloombergnef-to-upgrade-global-energy-storage-deployment-forecasts/",
-        "Title": "BloombergNEF: US, EU energy storage policy boosts global market",
-        "Summary": ""
-    },
-    {
-        "Link": "https://mexicobusiness.news/policyandeconomy/news/toward-brighter-future-mexicos-commitment-renewable-energy",
-        "Title": "Toward a Brighter Future: Mexico's Commitment to Renewable Energy",
-        "Summary": ""
-    },
-    {
-        "Link": "https://ground.news/interest/climate-change",
-        "Title": "Climate Change Breaking News Headlines Today | Ground News",
-        "Summary": ""
-    },
-    {
-        "Link": "https://www.essexlive.news/news/essex-news/areas-essex-could-underwater-2050-3742589",
-        "Title": "The areas in Essex that could be underwater by 2050 thanks to climate ...",
-        "Summary": ""
-    },
-    {
-        "Link": "https://www.context.news/nature/how-can-artificial-intelligence-help-fight-climate-change",
-        "Title": "How can artificial intelligence help fight climate change?",
-        "Summary": ""
-    },
-    {
-        "Link": "https://www.essexlive.news/news/essex-news/essex-climate-forecast-underwater-2050-3514756",
-        "Title": "Shocking new climate forecast reveal exactly which Essex streets will ...",
-        "Summary": ""
-    },
-    {
-        "Link": "https://www.context.news/",
-        "Title": "Global Climate, Economic Inequality & Tech News | Context",
-        "Summary": ""
-    },
-    {
-        "Link": "https://www.context.news/climate",
-        "Title": "Climate & Environmental News & Articles | Context",
-        "Summary": ""
-    },
-    {
-        "Link": "https://www.positive.news/environment/how-can-i-help-stop-climate-change/",
-        "Title": "How can I stop climate change? Six easy lifestyle ... - Positive News",
-        "Summary": ""
-    },
-    {
-        "Link": "https://ground.news/article/climate-change-exacerbates",
-        "Title": "",
-        "Summary": ""
+        "Link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy53b3JsZG9pbC5jb20vbmV3cy8yMDI0LzQvMTEvYWRub2MtY29uc2lkZXJlZC1hY3F1aXJpbmctYnAtZm9sbG93aW5nLW1ham9yLXB1cmNoYXNlcy1ieS1pb2NzLWxpa2UtZXh4b25tb2JpbC1jaGV2cm9uL9IBAA?oc=5",
+        "Title": "Adnoc considered acquiring BP following major purchases by IOCs like ExxonMobil, Chevron",
+        "Summary": "WorldOil reports on Adnoc's consideration of acquiring BP.",
+        "Date": "Thu, 11 Apr 2024 07:00:00 GMT"
     }
 ]
+```
+
+This JSON file contains a comprehensive list of URLs and their titles, summaries, and dates from various news sources covering the specified topics in the energy market. Each entry reflects a wide range of sources and perspectives, ensuring the information is current and relevant.

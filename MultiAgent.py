@@ -75,6 +75,7 @@ tavily_tool = TavilyAPI(api_key=tavily_api_key)
 #             return f"Failed to save news data: {e}"
 
 
+
 docs_scrape_tool = ScrapeWebsiteTool(
     # website_url="https://www.worldoil.com/news/2024/6/23/adnoc-extends-vallourec-s-900-million-oil-and-gas-tubing-contract-to-2027/"
 )
@@ -84,7 +85,7 @@ news_gatherer = Agent(
     role="News Gatherer",
     goal="To collect and compile a comprehensive list of URLs and titles "
          "from various news sources and RSS feeds related to specified topics in the energy market.",
-    tools=[serper_tool, scrape_tool, xml_tool,tavily_tool],
+    tools=[xml_tool],
     backstory="You are a dedicated and meticulous web crawler and aggregator, "
               "driven by a passion for information and data organization. "
               "Your skills in digital journalism and data scraping enable you "
@@ -133,10 +134,11 @@ news_gathering_task = Task(
         "entry should include the URL and the title of the corresponding article or news piece."
     ),
     expected_output="A JSON file containing a list of the collected URLs and their titles. "
-                    "Each entry in the list should be a dictionary with three keys: 'Link' "
+                    "Each entry in the list should be a dictionary with four keys: 'Link' "
                     "for the URL and 'Title' for the article's title and 'Summary' for the "
-                    "article's summary. The final output should reflect a wide range of sources"
-                    " and perspectives, ensuring the information is current and relevant.",
+                    "article's summary and 'Date' for date of article published. The final "
+                    "output should reflect a wide range of sources and perspectives, ensuring"
+                    "the information is current and relevant.",
     output_file='news_report.json',
     agent=news_gatherer
 )
